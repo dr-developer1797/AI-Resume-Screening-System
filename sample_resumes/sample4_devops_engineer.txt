@@ -1,0 +1,5 @@
+Karan Singh | karan.singh@example.com
+DevOps Engineer with 3 years of experience in cloud automation.
+Skills: AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible, Linux, CI/CD, Git, Bash, Python, Prometheus, Grafana, Helm.
+Experience: Built CI/CD pipelines, containerized applications, managed Kubernetes clusters, monitored with Prometheus and Grafana.
+Education: B.Tech IT.

@@ -1,0 +1,5 @@
+Neha Patel | neha.patel@example.com
+Front-end Web Designer with 2 years of experience in responsive websites.
+Skills: HTML, CSS, JavaScript, React, jQuery, Bootstrap, responsive design, Figma, Photoshop, UI/UX, SASS.
+Experience: Designed and developed 15+ responsive websites, converted Figma designs into React components.
+Education: BCA.

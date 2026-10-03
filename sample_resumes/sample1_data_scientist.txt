@@ -1,0 +1,5 @@
+Anita Sharma | anita.sharma@example.com | +91 9876543210
+Data Scientist with 3 years of experience in machine learning and data analysis.
+Skills: Python, pandas, numpy, scikit-learn, TensorFlow, Keras, NLP, statistics, matplotlib, SQL, Tableau, feature engineering.
+Experience: Built churn prediction and recommendation models, deployed deep learning models, created data visualization dashboards in Power BI.
+Education: M.Sc Statistics.

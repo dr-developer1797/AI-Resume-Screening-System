@@ -1,0 +1,5 @@
+Rahul Mehta | rahul.mehta@example.com
+Java Developer with 4 years of experience building enterprise applications.
+Skills: Java, Spring, Spring Boot, Hibernate, JPA, Maven, JUnit, REST API, microservices, MySQL, SQL, Git, Jenkins.
+Experience: Developed microservices with Spring Boot, wrote unit tests with JUnit, set up Jenkins build pipelines.
+Education: B.E. Computer Engineering.

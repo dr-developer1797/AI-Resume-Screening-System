@@ -1,0 +1,11 @@
+{
+  "Data Science": "We are hiring a Data Scientist to build machine learning and deep learning models, perform statistical analysis, feature engineering and data visualization on large datasets using Python, pandas, scikit-learn and SQL.",
+  "Python Developer": "Looking for a Python Developer to design backend services and REST APIs using Django, Flask or FastAPI, work with relational and NoSQL databases, write unit tests and deploy using Docker and Git.",
+  "Java Developer": "Hiring a Java Developer experienced in Spring Boot, Hibernate, microservices and REST APIs, with Maven, JUnit, MySQL and Jenkins for build and delivery.",
+  "Web Designing": "Seeking a Web Designer/Front-end Developer skilled in HTML, CSS, JavaScript, React, Bootstrap and responsive design, with UI/UX sense and tools like Figma and Photoshop.",
+  "DevOps Engineer": "DevOps Engineer needed to manage CI/CD pipelines, containers and orchestration with Docker and Kubernetes, infrastructure as code with Terraform and Ansible, cloud on AWS or Azure, and monitoring with Prometheus and Grafana.",
+  "Testing": "QA/Test Engineer required for manual and automation testing, writing test plans and test cases, using Selenium, TestNG, Postman, JIRA, regression and API testing in an Agile team.",
+  "Database": "Database Administrator/Developer to design schemas, write stored procedures and PL/SQL, optimize queries and indexing, manage backups and performance tuning on Oracle, MySQL, PostgreSQL or SQL Server.",
+  "Network Security Engineer": "Network Security Engineer to manage firewalls, VPNs, IDS/IPS and SIEM tools, perform vulnerability assessment and penetration testing, and handle incident response using Palo Alto, Fortinet, Cisco, Wireshark and Splunk.",
+  "HR": "HR Executive for end-to-end recruitment, talent acquisition, onboarding, payroll, employee engagement, performance management, HRIS and HR policy administration."
+}

@@ -1,0 +1,5 @@
+Priya Nair | priya.nair@example.com
+MCA student seeking a Python Developer role.
+Skills: Python, Flask, Django, SQL, MySQL, Git, pandas, basic machine learning, HTML, CSS.
+Projects: Library management system in Django, weather app using REST API, house price prediction using scikit-learn.
+Education: MCA (pursuing), BCA.
